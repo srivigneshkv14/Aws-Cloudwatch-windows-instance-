@@ -8,4 +8,4 @@ Monitoring means tracking the performance and health of your EC2 instance (e.g.,
 
 • Take actions automatically Ex:like stopping the instance if idle too long.
 
-• CloudWatch is the AWS service that collects these metrics.
+CloudWatch is the AWS service that collects these metrics.
